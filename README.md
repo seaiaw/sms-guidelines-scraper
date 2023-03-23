@@ -3,7 +3,10 @@ Python script to scrape Country SMS Guidelines from Twilio site. As the site may
 
 To execute the script, please follow the steps below:
 1. Clone the repository to your local. Navigate to the ```sms_guidelines_scraper``` directory.
-
+```
+git clone https://github.com/seaiaw/sms-guidelines-scraper.git
+cd sms-guidelines-scraper
+```
 
 2. Use ```pip``` to install required libraries from the requirements.txt. If you don't have ```pip``` installed, follow the steps in this [guide](https://docs.python-guide.org/starting/install3/osx/#pip).
 ```
