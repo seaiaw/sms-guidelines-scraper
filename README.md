@@ -1,5 +1,5 @@
 # Twilio SMS Guidelines Scraper
-Python script to scrape Country SMS Guidelines from Twilio site. As the site may change, there is no guarantee that this script would work with the new update on the site. This is tested working as of **March 2023**.
+Python script to scrape Country SMS Guidelines from Twilio site. As the site may change, there is no guarantee that this script would work with the new update on the site. This is tested working as of **Nov 2023**.
 
 To execute the script, please follow the steps below:
 1. Clone the repository to your local. Navigate to the ```sms_guidelines_scraper``` directory.
